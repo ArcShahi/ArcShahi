@@ -6,7 +6,7 @@
 
 ## Efficient 
 
-![1200px-C_Programming_Language svg](https://github.com/ArcShahi/ArcShahi/assets/90377780/b863f00e-ae8f-4e2f-a8c8-412cbb5af687)          ![ISO_C++_Logo svg](https://github.com/ArcShahi/ArcShahi/assets/90377780/8d5044cc-3744-4350-8906-805a570b70ba)
+![1200px-C_Programming_Language svg](https://github.com/ArcShahi/ArcShahi/assets/90377780/b863f00e-ae8f-4e2f-a8c8-412cbb5af687|100*100)          ![ISO_C++_Logo svg](https://github.com/ArcShahi/ArcShahi/assets/90377780/8d5044cc-3744-4350-8906-805a570b70ba|100*100)
 
 
 
