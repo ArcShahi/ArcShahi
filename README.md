@@ -1,4 +1,4 @@
-I'm Exploring things and doing and learning what fascinates me.
+I'm Exploring things ...doing and learning what fascinates me.
 - 📫 How to reach me : discordapp.com/users/674612232516272130
 
 ## Efficient 
