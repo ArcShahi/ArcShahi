@@ -18,5 +18,7 @@
 
 ## Noob
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/ea8e322b-eb04-4915-b266-48b0d8655beb" width=75" height="75">
+
+
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/86f8299e-9d6a-45f0-aa58-32c128aa086b" width="75" height="75">
 
