@@ -34,6 +34,8 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 ## Noob
 
+<img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="75" height="75">
+
 
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/86f8299e-9d6a-45f0-aa58-32c128aa086b" width="75" height="75">
