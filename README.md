@@ -37,3 +37,6 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
+
+<img src="https://github.com/user-attachments/assets/8d0a70f5-d265-4bf4-bb85-37d05f850582" width="100" height="75">
+
