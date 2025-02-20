@@ -24,7 +24,7 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 
 
-## Noob
+## Decent
 
 <img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="125" height="75">
 
@@ -36,6 +36,5 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 
 # Future
-
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
