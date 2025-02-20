@@ -33,4 +33,7 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 # Future
 
+<img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="100" height="100">
+
+
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
