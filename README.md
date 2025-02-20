@@ -34,7 +34,7 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 ## Noob
 
-<img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="75" height="75">
+<img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="125" height="75">
 
 
 
