@@ -14,7 +14,7 @@ Currently writing a Creative Coding 2D library for C++.
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/67135d2c-7b47-4a32-9185-6238a5bd6227" width="75" height="75">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/6ad84e21-8323-4709-8dbe-08102b0fa287" width="75" height="75">
+
 
                  
 
