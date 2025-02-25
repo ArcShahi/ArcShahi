@@ -16,11 +16,6 @@ Currently writing a Creative Coding 2D library for C++.
 
 
 
-                 
-
-
-
-
 
 
 ## Decent
@@ -34,10 +29,9 @@ Currently writing a Creative Coding 2D library for C++.
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/8f9369a4-2988-4593-80c1-81b94ac17919" widht="75" height="75">
 
 
-# Future
+## Future
 
 <img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="100" height="100">
-
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
 
