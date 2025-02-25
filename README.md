@@ -2,7 +2,7 @@ I'm Exploring things ...doing and learning what fascinates me.
 
 Currently writing a Creative Coding 2D library for C++.
 
-- 📫 How to reach me : discordapp.com/users/674612232516272130
+- 📫 How to reach me : email me
 
 ## Efficient 
 
