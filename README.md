@@ -1,12 +1,14 @@
 I'm Exploring things ...doing and learning what fascinates me.
 
-Currently writing a Creative Coding 2D library for C++.
+Interested in Game Development , Graphics Programming , HFT ( High Frequency Trading )
 
 - 📫 How to reach me :
 
 ## Efficient 
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/2f3de793-8898-497e-b528-81b46143b9c7" width="75" height="75">
+
+<img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="100" height="100">
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="75" height="75">
 
@@ -31,7 +33,6 @@ Currently writing a Creative Coding 2D library for C++.
 
 ## Future
 
-<img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="100" height="100">
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
 
