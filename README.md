@@ -28,11 +28,12 @@ Interested in Game Development , Graphics Programming , HFT ( High Frequency Tra
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/86f8299e-9d6a-45f0-aa58-32c128aa086b" width="75" height="75">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/8f9369a4-2988-4593-80c1-81b94ac17919" widht="75" height="75">
+
 
 
 ## Future
 
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/8f9369a4-2988-4593-80c1-81b94ac17919" widht="75" height="75">
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/50bf7b5e-3c97-404c-b8c5-35475d221d93" width="75" height="75">
 
