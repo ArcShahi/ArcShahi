@@ -1,4 +1,4 @@
-I'm Exploring things ...doing and learning what fascinates me.
+I'm Exploring things currently. Learning what fascinates me...
 
 Interested in Game Development , Graphics Programming , HFT ( High Frequency Trading )
 
