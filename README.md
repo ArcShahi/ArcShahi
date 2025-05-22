@@ -1,6 +1,6 @@
 I'm Exploring things currently. Learning what fascinates me...
 
-Interested in Game Development , Graphics Programming , High Performance Computing
+Interested in Game Development , Graphics Programming , High-Performance Computing
 
 
 
