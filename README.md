@@ -7,11 +7,11 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 ## Efficient 
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/2f3de793-8898-497e-b528-81b46143b9c7" width="75" height="75">
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/2f3de793-8898-497e-b528-81b46143b9c7" width="50" height="50">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/6447647a-7a86-49f1-8c3e-c00ee407c62a" widht="75" height="75">
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/6447647a-7a86-49f1-8c3e-c00ee407c62a" widht="50" height="50">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="75" height="75">
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="50" height="50">
 
 
 
