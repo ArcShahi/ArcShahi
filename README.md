@@ -32,7 +32,7 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 ## Future
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/8f9369a4-2988-4593-80c1-81b94ac17919" widht="75" height="75">
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/8f9369a4-2988-4593-80c1-81b94ac17919" widht="50" height="50">
 
-<img src="https://github.com/user-attachments/assets/8d0a70f5-d265-4bf4-bb85-37d05f850582" width="100" height="75">
+<img src="https://github.com/user-attachments/assets/8d0a70f5-d265-4bf4-bb85-37d05f850582" width="50" height="50">
 
