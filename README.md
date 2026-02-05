@@ -19,7 +19,7 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 <img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="75" height="75">
 
-<imag src="https://github.com/user-attachments/assets/3e66473f-d40f-4566-98bf-a7c5973c70c6" widht="100" height="75">
+<imag src="https://github.com/user-attachments/assets/3e66473f-d40f-4566-98bf-a7c5973c70c6" width="100" height="75">
 
 
 <img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="75" height="50">
