@@ -21,12 +21,11 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/8f8e4e52-d419-47b5-84db-cdee7d78e4d2" />
 
-
 <img src="https://github.com/user-attachments/assets/3e66473f-d40f-4566-98bf-a7c5973c70c6" width="100" height="75" alt="opengl">
 
 <img src="https://github.com/user-attachments/assets/19b2324e-5707-42e2-b175-055db304b8dd" width="75" height="75">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/67135d2c-7b47-4a32-9185-6238a5bd6227" width="75" height="75">
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/67135d2c-7b47-4a32-9185-6238a5bd6227" width="50" height="50">
 
 
 
