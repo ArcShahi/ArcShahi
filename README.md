@@ -17,7 +17,7 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 ## Decent
 
-<img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="75" height="75">
+<img src="https://github.com/user-attachments/assets/115919d0-58e7-4297-bf46-8fef7c64676c" width="50" height="50" alt="lua">
 
 <img width="75" height="75" alt="image" src="https://github.com/user-attachments/assets/8f8e4e52-d419-47b5-84db-cdee7d78e4d2" />
 
