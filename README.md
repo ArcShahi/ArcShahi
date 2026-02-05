@@ -8,9 +8,9 @@ Interested in Game Development , Graphics Programming , High-Performance Computi
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/2f3de793-8898-497e-b528-81b46143b9c7" width="75" height="75">
 
-<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="75" height="75">
-
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/6447647a-7a86-49f1-8c3e-c00ee407c62a" widht="75" height="75">
+
+<img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="75" height="75">
 
 
 
@@ -20,7 +20,7 @@ Interested in Game Development , Graphics Programming , High-Performance Computi
 
 <img src="https://github.com/user-attachments/assets/f7bd492d-4da9-4835-b332-c9fa3ff94c02" width="75" height="50">
 
-<img src="https://github.com/user-attachments/assets/19b2324e-5707-42e2-b175-055db304b8dd" width="75" height="50">
+<img src="https://github.com/user-attachments/assets/19b2324e-5707-42e2-b175-055db304b8dd" width="75" height="75">
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/67135d2c-7b47-4a32-9185-6238a5bd6227" width="75" height="75">
 
