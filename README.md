@@ -1,6 +1,7 @@
-I'm Exploring things currently. Learning what fascinates me...
+I'm exploring things currently. Learning what fascinates me...
 
-Interested in Game Development , Graphics Programming , High-Performance Computing
+Interested in Game Development , Graphics Programming. I'm fascinated by how things work after stripping down the abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
+
 
 
 
