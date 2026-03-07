@@ -13,6 +13,8 @@ Interested in Game Development , Graphics Programming. I'm fascinated by how thi
 
 <img src="https://github.com/ArcShahi/ArcShahi/assets/90377780/e031bc0f-8c73-4510-bc39-586a000e8794" width="50" height="50">
 
+<img width="50" height="50" alt="pwsh" src="https://github.com/user-attachments/assets/7a50b780-7ad1-457b-9e50-064813e8fcff" />
+
 
 
 ## Decent
