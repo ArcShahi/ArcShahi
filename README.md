@@ -9,8 +9,8 @@ My primary focus is Mathematics right now. It allows us to do many things quite 
 I know 
 - ![C++](https://img.shields.io/badge/C++-blue)
 - ![x86--64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-000000?style=flat)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-- `PowerShell`
+- ![AVX2](https://img.shields.io/badge/AVX2-FF6B00?style=flat)
+- ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
 
 
 **Can and have created really cool stuff with them**. I'll create anything that pushed my interest to a certain level.
