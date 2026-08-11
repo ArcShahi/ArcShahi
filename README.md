@@ -2,7 +2,7 @@ I'm exploring things currently. Learning what fascinates me...
 
 Interested in High Performance Computing , Game Development , Graphics Programming. 
 
-I'm fascinated by how things work after stripping down the abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
+I'm intrigued by how things work after stripping down the abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
 
 My priority is Mathematics right now. It allows us to do many things quite elegantly in programming and combining it with SIMD to write some fast Mathematical algorithms. 
 
