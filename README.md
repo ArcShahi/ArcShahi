@@ -9,7 +9,7 @@ My primary focus is Mathematics right now. It allows us to do many things quite 
 I know 
 - ![C++](https://img.shields.io/badge/C++-blue)
 - ![x86--64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-333333?style=flat)
-- ![AVX2](https://img.shields.io/badge/AVX2-FF6B00?style=flat)
+- ![AVX2](https://img.shields.io/badge/SIMD--AVX2-2d9964?style=flat)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
 - ![PowerShell](https://img.shields.io/badge/PowerShell-52205e?style=plastic)
 
