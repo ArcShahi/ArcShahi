@@ -14,7 +14,7 @@ I know
 - ![PowerShell](https://img.shields.io/badge/PowerShell-52205e?style=plastic)
 
 
-**Can and have created really cool stuff with them**. I'll create anything that pushed my interest to a certain level.
+**Can and have created really cool stuff with them**. I'll try to create anything that pushes my interest to a certain level.
 
 
 I'm planning to learn these in the near future :
