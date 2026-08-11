@@ -11,7 +11,7 @@ I know
 - ![x86--64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-000000?style=flat)
 - ![AVX2](https://img.shields.io/badge/AVX2-FF6B00?style=flat)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat)
-- ![PowerShell](https://img.shields.io/badge/PowerShell-52205e?style=flat)
+- ![PowerShell](https://img.shields.io/badge/PowerShell-52205e?style=plastic)
 
 
 **Can and have created really cool stuff with them**. I'll create anything that pushed my interest to a certain level.
