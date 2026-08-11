@@ -6,7 +6,7 @@ My primary focus is Mathematics right now. It allows us do many things quite ele
 
 I know 
 - `C++`
-- `x86-64 Assembly`
+- `x86-64 Assembly + AVX2 SIMD`
 - `Python`
 - `PowerShell`
 
