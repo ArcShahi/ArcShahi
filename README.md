@@ -11,12 +11,15 @@ I know
 - `PowerShell`
 
 
-**Can and have created really cool stuff with them**.
+**Can and have created really cool stuff with them**. I'll create anything that pushed my interest to a certain level.
 
 
-I'm planning these do learn in near future :
+I'm planning these do learn in the near future :
 
 - OpenGL
 - GLSL
 - Physically Based Renderer
 - Unreal Engine
+
+
+> Shahi ( *prefers natural stupidity over artificial intelligence* )
