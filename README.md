@@ -1,6 +1,6 @@
 I'm exploring things currently. Learning what fascinates me...
 
-Interested in Game Development , Graphics Programming and making things go fast.
+Interested in Game Engine / Game Development , Graphics Programming and low-level performance engineering to make things run fast.
 
 I'm intrigued by how things work after stripping down the abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
 
