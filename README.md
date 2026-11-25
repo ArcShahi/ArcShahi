@@ -1,10 +1,10 @@
-I'm exploring things currently. Learning what fascinates me...
+I'm currently exploring things and niches. Learning what fascinates me...
 
-Interested in Game Engine , Graphics Programming and low-level performance engineering to make things run fast.
+Interested in Game Engine , Graphics Programming , System programming  and Low-level performance engineering.
 
-I'm intrigued by how things work after stripping down the abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
+I'm intrigued by how things work after stripping down the layers of abstractions. I learn and apply anything that pushes my curiosity to a certain threshold.
 
-My priority is Mathematics right now. It allows us to do many things quite elegantly in programming and combining it with SIMD to write some fast Mathematical algorithms.
+My priority is **mathematics**  right now. It allows us to do many things quite elegantly in programming , from Shader art to performance optimization, simulations and everything. 
 
 
 ----
